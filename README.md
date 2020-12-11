@@ -25,7 +25,7 @@ STEP 3 : Get your API keys.after creating ,open your channel and select the API 
 
 2) Connecting ESP8266 to wifi
 
-3) Uploading the code and serial monitor and getting sensor data on thingspeak channel.
+3) Uploading the code and serial monitor and getting sensor data on thingspeak channel.(my Channel ID: 1223151)
 
 4) Generating alert key on thingspeak ,creating a matlab analysis and writing matlab code to send email and adding the alert key to matlab code also adding conditions to send the email to react.
 
