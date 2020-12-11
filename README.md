@@ -1,19 +1,19 @@
 # spoiled-food-detector-IOT
 
 Hardware Components Required :
-Arduino Uno R3
-MQ4 Methane sensor
-Esp8266-01 wifi module
-Breadboard
-Jumper wires
+Arduino Uno R3,
+MQ4 Methane sensor,
+Esp8266-01 wifi module,
+Breadboard,
+Jumper wires,
 Resistor
 
 Software Required :
-Arduino IDE 1.8.13
+Arduino IDE 1.8.13,
 Thingspeak
 
 Languages used :
-CPP
+CPP and
 Matlab
 
 steps:
