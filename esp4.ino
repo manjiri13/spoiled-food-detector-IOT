@@ -3,9 +3,9 @@
 #define TX 3
 #define mq4 a0
 int food;
-String AP = "Cyberina";       // AP NAME
-String PASS = "minions13"; // AP PASSWORD
-String API = "N7BEU7SS7JYFRPE8";   // Write API KEY
+String AP = "//  wifi NAME";    
+String PASS = "// wifi PASSWORD"; 
+String API = " // Write API KEY";  
 String HOST = "api.thingspeak.com";
 String PORT = "80";
 String field = "field1";
